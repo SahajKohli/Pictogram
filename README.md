@@ -16,6 +16,7 @@ Each Picture and it's metadata is shown in a picture frame that is populated fro
 I used useState hooks to check wheter or not if the cursor is over the pciture.
 
 Example:
+
 ![](https://github.com/SahajKohli/Pictogram/blob/master/documentation/onepicturesample.gif)
 
 
@@ -24,12 +25,14 @@ Populates mutiple pictureFrame components and shows them in a flex box. This com
 in the element into a state object which then populates the modal. The modal is being imported from React Bootstrap. 
 
 Example:
+
 ![](https://github.com/SahajKohli/Pictogram/blob/master/documentation/mutiplepictures.gif)
 
 ### Responsive Desgin
 Since the PictureFrames are put in a flex box, this allows us to basically move the page around and the pictogram adapts to the new size. 
 
 Example:
+
 ![](https://github.com/SahajKohli/Pictogram/blob/master/documentation/resizablility.gif)
 
 ## ToDo
