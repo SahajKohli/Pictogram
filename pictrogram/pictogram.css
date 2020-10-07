@@ -1,0 +1,22 @@
+.pictures {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 5px;
+}
+.pictureGram{
+    position: relative;
+    height: 30%;
+    width: 30%;
+
+}
+
+.pictureFramefalse {
+    margin-top: 5px;
+}
+
+.pictureFrametrue {
+    margin-top: 5px;
+    opacity: .9;
+}
+
