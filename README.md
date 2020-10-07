@@ -15,12 +15,22 @@ There are two main components that are used to create this library PictureFrame 
 Each Picture and it's metadata is shown in a picture frame that is populated from the PictoGram Component. When you scroll over the picutre the metadata is shown.
 I used useState hooks to check wheter or not if the cursor is over the pciture.
 
+Example:
+![](https://github.com/SahajKohli/Pictogram/blob/master/documentation/onepicturesample.gif)
+
+
 ### Mutiple Picture (PictoGram Component)
 Populates mutiple pictureFrame components and shows them in a flex box. This component uses hooks to see if you have clicked on a image, if you have it passes
 in the element into a state object which then populates the modal. The modal is being imported from React Bootstrap. 
 
+Example:
+![](https://github.com/SahajKohli/Pictogram/blob/master/documentation/mutiplepictures.gif)
+
 ### Responsive Desgin
 Since the PictureFrames are put in a flex box, this allows us to basically move the page around and the pictogram adapts to the new size. 
+
+Example:
+![](https://github.com/SahajKohli/Pictogram/blob/master/documentation/resizablility.gif)
 
 ## ToDo
 Add a more indepth description that will be passed into the modal and allow the user to read a more detailed description
