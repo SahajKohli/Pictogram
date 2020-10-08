@@ -37,6 +37,7 @@ Example:
 
 ## ToDo
 Add a more indepth description that will be passed into the modal and allow the user to read a more detailed description
+More Design support
 
 ## Free To Use and Imporve
 If you see a issue or want to make sopmething better, feel free to fork the code or put a PR on it. 
